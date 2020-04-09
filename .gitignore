@@ -21,3 +21,5 @@ target/
 
 # Mac specific
 .DS_Store
+scala-2.13.1.deb
+
